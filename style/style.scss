@@ -1,0 +1,27 @@
+
+
+
+// variables
+$font-stack:    Helvetica, sans-serif;
+
+*
+{
+   
+}
+
+div
+{
+    background-color: green;
+
+    .first
+    {
+        background-color: aquamarine;
+        padding: 20px;
+    }
+
+    .second
+    {
+        background-color: bisque;
+        padding: 30px;
+    }
+}
