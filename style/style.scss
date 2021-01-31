@@ -41,9 +41,11 @@ sans-serif;
         height: 50px;
         margin: 10px;
         position: relative;
-
+        
+        top: 50px;
         &.item1 {
             background-color: rgb(255, 0, 0);
+            right: 10%;
         }
 
         &.item2 {

@@ -35,10 +35,12 @@
   height: 50px;
   margin: 10px;
   position: relative;
+  top: 50px;
 }
 
 .box .item.item1 {
   background-color: red;
+  right: 10%;
 }
 
 .box .item.item2 {
