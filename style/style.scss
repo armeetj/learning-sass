@@ -40,19 +40,17 @@ sans-serif;
         width: 50px;
         height: 50px;
         margin: 10px;
-        position: relative;
-        
-        top: 50px;
+        position: absolute;
+
         &.item1 {
             background-color: rgb(255, 0, 0);
-            right: 10%;
         }
 
         &.item2 {
             background-color: rgb(255, 166, 0);
             left: 100px;
         }
-        
+
         &.item3 {
             background-color: rgb(0, 255, 234);
             left: 200px;
